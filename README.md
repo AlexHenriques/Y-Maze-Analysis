@@ -42,8 +42,8 @@ If you haven't already, make sure to install Git and Python
 
 Follow these steps in a terminal:
 
-1. Clone this repository to your local machine `git clone https://github.com/AlexHenriques/Y-MazeAnalysis.git`
-2. Open a terminal and navigate to the repository's directory `cd Y-MazeAnalysis`.
+1. Clone this repository to your local machine `git clone https://github.com/AlexHenriques/Y-Maze-Analysis.git`
+2. Open a terminal and navigate to the repository's directory `cd Y-Maze-Analysis`.
 3. Run the script using the command `python y-mazetool.py`.
 
 ## Usage
